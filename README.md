@@ -1,5 +1,7 @@
 # Olá, eu sou o Samuel 👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel%20Lauro-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-l-563527138)
+
 Desenvolvedor **backend Python**. Construo sistemas web com FastAPI, SQLAlchemy e Docker, do banco de dados ao deploy, com testes automatizados e atenção à segurança.
 
 ## 🛠️ Stack
