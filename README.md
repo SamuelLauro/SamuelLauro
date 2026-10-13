@@ -17,7 +17,7 @@ Desenvolvedor **backend Python**. Construo sistemas web com FastAPI, SQLAlchemy 
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| [AgendaBarber](https://github.com/SamuelLauro/AgendaBarber) | Agendamento online para barbearias: várias barbearias no mesmo sistema, agenda configurável e proteção contra marcação dupla | FastAPI, SQLAlchemy async, Alembic, PostgreSQL, Docker, pytest |
+| [Marque o Corte](https://marqueocorte.com) | Agendamento online para barbearias: várias barbearias no mesmo sistema, agenda configurável e proteção contra marcação dupla | FastAPI, SQLAlchemy async, Alembic, PostgreSQL, Docker, pytest |
 | [sistema-portaria-escolar](https://github.com/SamuelLauro/sistema-portaria-escolar) | Controle de entrada de alunos por QR Code, ocorrências disciplinares e relatórios em Excel | FastAPI, CustomTkinter, SQLite, Docker, Caddy |
 | [previsao-demanda-barbearia](https://github.com/SamuelLauro/previsao-demanda-barbearia) | Previsão do movimento diário de uma barbearia com séries temporais | Flask, pandas, Prophet |
 | [sistema-assistencia-tecnica](https://github.com/SamuelLauro/sistema-assistencia-tecnica) | Sistema desktop para uma assistência técnica de celulares | Java Swing, MySQL, Maven, GitHub Actions |
